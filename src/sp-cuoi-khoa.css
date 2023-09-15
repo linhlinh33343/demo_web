@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding-left: 0;
+}
+.header{
+    background-color: wheat;
+}
+.menu ul{
+    margin-top: 100px;
+    display: flex;
+    font-size: 25px;
+}
+.menu ul li{
+    margin: 0px 20px;
+    list-style: none;
+    font-size: 20px;
+}
+.menu button:hover{
+    background-color: aliceblue;
+}
+.menu button{
+    background-color: wheat;
+    border: 0px;
+}
+.button{
+    display:flex;
+}
+.button input{
+    margin: 100px 0px 0px 30px;
+    height:26px;
+    width:150px;
+    background-color: white;
+    font-size: 17px;
+}
+
+.button button{
+    margin: 100px 0px;
+    width: 80px;
+    height: 30px;
+}
+.header img{
+    width: 1463px;
+}
+.text-header{
+    display: flex;
+}
+.header h1{
+    color:rgb(27, 109, 181);
+    margin: 100px 70px;
+    font-size: 50px;
+    font-weight:bold;
+    justify-content: space-between;
+    align-items: center;
+}
+.text-1 h3{
+    margin:32px 50px;
+    font-size: 50px;
+    color:coral;
+}
+.text-1 p{
+    font-size: 25px;
+    margin: 32px 80px;
+}
+.doan1{
+    display: flex;
+    background-color: blanchedalmond;
+}
+.anhdoan1{
+    width: 1463px;
+    height: 400px;
+}
+.anhdoan2{
+    margin: 100px 0px;
+}
+.break-1 img{
+    width: 1463px;
+}
+.doan2{
+    padding: 50px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.text-2 p{
+    font-size:25px;
+}
+.text-2 h3{
+    margin:50px;
+    font-size: 50px;
+    color:coral;
+}
+.break-2 img{
+    width: 1463px;
+}
+.doan3{
+    padding-bottom: 50px;
+}
+.text3{
+    font-size:25px;
+    margin: 50px 100px;
+}
+.text-3 h3{
+    margin: 100px 100px;
+    font-size: 50px;
+    text-align: center;
+    color:coral;
+}
+.a3{
+    display:flex;
+    height: 384px;
+}
+.chuthich{
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px ;
+}
+
+.text-4 h3{
+    text-align: center ;
+    margin:50px;
+    font-size: 50px;
+    color:coral;
+}
+.text-4 p{
+    font-size:25px;
+    margin: 50px 100px;
+}
+.anhdoan4{
+    display:flex;
+    height:284px;
+}
+.main-item{
+    background-color: beige;
+}
+.text-tong-ket{
+    text-align: center;
+    margin:50px;
+    font-size: 50px;
+    color:coral;
+}
+.text-tk p{
+    font-size:25px;
+    margin: 50px 100px;
+}
+.anh-tk img{
+    width: 1463px;
+}
+.min{
+    text-align: center;
+}
+
+.end{
+    background-color:bisque;
+}
+
